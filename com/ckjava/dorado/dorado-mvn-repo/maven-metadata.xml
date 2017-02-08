@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ckjava.dorado</groupId>
+  <artifactId>dorado-mvn-repo</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170208023809</lastUpdated>
+  </versioning>
+</metadata>
