@@ -1,0 +1,13 @@
+# Directory trees to ignore
+backups/
+build/
+dist/
+local/
+printable_docs/
+reports/
+site/
+target/
+/classes/
+.project
+.settings/
+.classpath
